@@ -9,7 +9,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Replace with your actual bot token
-BOT_TOKEN = "7318436729:AAGeg3R-cLsC_-l3-I6XKn0tacTpW7V47X0"
+BOT_TOKEN = "7804254832:AAG98eY4lt2fp3z9ruETnmHGx7xKJMxTaG8"
 
 
 async def approve_request(update: Update, context):
