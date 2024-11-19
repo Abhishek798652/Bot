@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = "7318436729:AAGeg3R-cLsC_-l3-I6XKn0tacTpW7V47X0"
 
 # Replace with your Telegram user ID
-ADMIN_USER_ID = @TraderAnshiii  # Your Telegram user ID (get it from @userinfobot)
+ADMIN_USER_ID = 6490744056  # Your Telegram user ID (get it from @userinfobot)
 
 # To store the mapping of users and messages
 user_context = {}
